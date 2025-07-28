@@ -89,10 +89,9 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "name": "光速资源"
     },
-      "pianku": {
-      "api": "https://pianku.wang/api.php/provide/vod/",
-      "name": "片库资源"
+      "Uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "name": "U库资源"
     }
-
   }
 }
